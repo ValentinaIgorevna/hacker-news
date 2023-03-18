@@ -3,8 +3,8 @@
     flex-direction: column;
     justify-content: space-between;
 
-    padding: 5px;
-    height: 90px;
+    padding: 10px;
+    height: 50px;
     border: 1px solid #808080;
     border-radius: 10px;
 }
@@ -33,4 +33,19 @@
     background-color: #8f8f8f;
     color: white;
     border-radius: 20px;
+}
+
+.lowScore {
+    background-color: #8f8f8f;
+    color: white;
+}
+
+.midScore {
+    background-color: #ffb06b;
+    color: #ef7b02;
+}
+
+.highScore {
+    background-color: #c5fa89;
+    color: #417903;
 }
