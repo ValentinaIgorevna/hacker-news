@@ -1,0 +1,15 @@
+.container {
+    padding: 20px;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.commentContainer:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.commentUsername {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
